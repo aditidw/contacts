@@ -1,5 +1,5 @@
 {
-  "contacts": [
+  "posts": [
   {
     "id": 1,
     "name": "John",
@@ -59,6 +59,12 @@
     "name": "Carol",
     "address": "70 Pleasant Valley Street",
     "country": "Netherlands"
+  },
+    {
+    "id": 11,
+    "name": "Jimmy",
+    "address": "337 Russell St",
+    "country": "Australia"
   }
 ]
 }
